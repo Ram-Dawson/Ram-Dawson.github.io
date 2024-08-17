@@ -16,7 +16,7 @@ timezone:
 
 title: Ram # the main title
 
-tagline: Ram-Dowson的个人博客 # it will display as the sub-title
+tagline: Ram-Dawson的个人博客 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   一些技术文章，一些生活感悟。
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://ram-dawson.github.io/"
 
 github:
-  username: Ram-Dowson # change to your github username
+  username: Ram-Dawson # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -38,7 +38,7 @@ social:
   email: dawsmoon@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    # - https://twitter.com/username # change to your twitter homepage
     - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
