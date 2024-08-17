@@ -1,6 +1,6 @@
 ---
 title: 用 ESRGAN-TF2 模型和 TFLite 实现图像超分辨率
-author: 1
+author: <1>
 date: 2024-08-16 10:00:00 +0800
 categories: [开发, 教程]
 tags: [图像超分辨率]
